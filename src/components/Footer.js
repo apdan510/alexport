@@ -37,6 +37,13 @@ function Footer() {
           <ul>Frequently encountered software in the field:</ul>
           Zoom, Microsoft Office 365, Dropbox, Okta, Bluebeam, Ringcentral,
           Bria, Slack, 3dsMax, Autocad, Visual Studio Code, Adobe suite.
+          <br></br>
+          <br></br>
+          Contact info:<br></br>
+          <br></br> email: alexanderp.dan@gmail.com <br></br>
+          <br></br>phone: 510-610-2272<br></br>
+          <br></br>
+          slack: @APD
         </p>
       </section>
 
@@ -46,13 +53,14 @@ function Footer() {
             <Link to="/" className="social-logo">
               Thank you for your time!
             </Link>
-            hi
           </div>
           <small class="website-rights"></small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
-              to="/"
+              to={{
+                pathname: "https://www.facebook.com/alexander.p.dan",
+              }}
               target="_blank"
               aria-label="Facebook"
             >
@@ -60,11 +68,25 @@ function Footer() {
             </Link>
             <Link
               class="social-icon-link twitter"
-              to="/"
+              to={{
+                pathname:
+                  "https://www.linkedin.com/in/alexander-dan-393b13174/",
+              }}
               target="_blank"
               aria-label="LinkedIn"
             >
               <i class="fab fa-linkedin" />
+            </Link>
+
+            <Link
+              class="social-icon-link linkedin"
+              to={{
+                pathname: "https://github.com/apdan510",
+              }}
+              target="_blank"
+              aria-label="Github"
+            >
+              <i class="fab fa-github" />
             </Link>
           </div>
         </div>
