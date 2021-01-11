@@ -1,91 +1,38 @@
 import React from "react";
 import "./Cards.css";
 import CardItem from "./CardItem";
+import CardItem2 from "./CardItem2";
+import CardItem3 from "./CardItem3";
+import CardItem4 from "./CardItem4";
 
 function Cards() {
   return (
     <div className="cards">
-      <h1>Season 2 Daily Log</h1>
-
-      <div className="descards">
-        <CardItem text="Jan 2020" />
-      </div>
+      <h1>Projects</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-9.jpg"
-              text="Jan 2020"
-              label="JAN"
+              src="images/20190724_160431_001.jpg"
+              text="Cardboard Raspberry Pi Arcade"
               path="/services"
             />
-            <CardItem
-              src="images/img-2.jpg"
-              text="Feb 2020"
-              label="FEB"
-              path="/services"
-            />
-            <CardItem
-              src="images/img-3.jpg"
-              text="Mar 2020"
-              label="MAR"
+            <CardItem2
+              src="images/20201118_171032.jpg"
+              text="Filecoin Node and Miner"
               path="/services"
             />
           </ul>
           <ul className="cards__items">
-            <CardItem
-              src="images/img-4.jpg"
-              text="Apr 2020"
-              label="APR"
+            <CardItem3
+              src="images/20210110_174753.jpg"
+              text="3D Printing"
               path="/products"
             />
-            <CardItem
-              src="images/img-8.jpg"
-              text="May 2020"
-              label="MAY"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Jun 2020"
-              label="MAY"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Jul 2020"
-              label="JUL"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Aug 2020"
-              label="AUG"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Sep 2020"
-              label="SEP"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Oct 2020"
-              label="OCT"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="No 2020"
-              label="NOV"
-              path="/sign-up"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Dec 2020"
-              label="DEC"
-              path="/sign-up"
+            <CardItem4
+              src="images/20190807_160449.jpg"
+              text="Gaming PC"
+              path="/products"
             />
           </ul>
         </div>

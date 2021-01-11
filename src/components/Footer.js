@@ -13,10 +13,18 @@ function Footer() {
           part-time Cryptocurrency Miner/Developer from Oakland California. I am
           fully devoted to all-things related to technology and decentralized
           systems. I first discovered Peer 2 Peer technology when I was 10 years
-          old. I downloaded my first mp3 on Napster on my mom's computer. I have
-          been hooked ever since.
+          old. I removed my first virus at 11 years old, and built my first
+          computer at 12 years old. Sometimes, frozen computers start working
+          when I stand next to them.
           <br></br>
-          <br></br>I am currently contracted out as systems administrator for
+          <br></br>I like to bring with me, a light-hearted and humourous work
+          ethic. I firmly believe in "Work Hard, Play Hard." I work well alone,
+          or in a team setting. I am comfortable leading or playing support. If
+          there is any slack to pick up; I am usually the first one to pick it
+          up. I am very proactive in my approach to problems, but also careful
+          from the experience I have gained in the field.
+          <br></br>
+          <br></br>I am currently contracted out as a systems administrator for
           medium and large sized businesses. A notable company I currently
           support is Fairtrade USA, an international non profit company that
           certifies coffee and other products for fair labor practices. They
@@ -34,9 +42,13 @@ function Footer() {
           direct user communication.
           <br></br>
           <br></br>
-          <ul>Frequently encountered software in the field:</ul>
-          Zoom, Microsoft Office 365, Dropbox, Okta, Bluebeam, Ringcentral,
-          Bria, Slack, 3dsMax, Autocad, Visual Studio Code, Adobe suite.
+          In a world of censorship. It is important to due whatever is
+          neccessary to fight for freedom. I have been following WEB3, IPFS, and
+          Ethereum Dapp technology for the last 3 years. I cannot stand on the
+          sidelines any longer. I completed all Pre-Space Race and Space Race
+          programs. I am currently working on the Slingshot Development program,
+          where I learned how to make this Web3 resume with React JS and Fleek
+          IPFS Webhosting. I want to support the future of the internet.
           <br></br>
           <br></br>
           Contact info:<br></br>
